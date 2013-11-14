@@ -5,7 +5,7 @@ require 'Flickr';
 
 
 
-$descrip	#Variable que tiene el paramtro de busqueda
+$descrip	
 $numero		
 $Flickr = Flickr.new()
 $Twittear = tweet.new()
