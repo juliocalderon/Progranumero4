@@ -6,8 +6,7 @@ require 'Flickr';
 
 
 $descrip	#Variable que tiene el paramtro de busqueda
-$numero		#Variable que tiene el numero de imagenes a mostrar
-
+$numero		
 $Flickr = Flickr.new()
 $Twittear = tweet.new()
 
